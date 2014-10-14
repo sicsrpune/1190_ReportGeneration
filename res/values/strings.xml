@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ReadExcel3</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="Read">Read</string>
+    <string name="Compare">Compare</string>
+    <string name="Select">Select</string>
+    <string name="File">Files</string>
+    <string name="title_activity_list_files">ListFiles</string>
+    <string name="title_activity_student_list">StudentList</string>
+    <string name="title_activity_graph">Graph</string>
+
+</resources>
